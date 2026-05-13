@@ -1,6 +1,10 @@
 ## Hi there, I'm Kerem 👋
 I'm a high school student, building a strong foundation in programming and robotics before studying **mechanical engineering**
 
+---
+
+## 🔧 What I'm Working On
+
 <!--
 **Kergul08/Kergul08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
