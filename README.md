@@ -4,6 +4,8 @@ I'm a high school student, building a strong foundation in programming and robot
 ---
 
 ## 🔧 What I'm Working On
+* **Arduino** — Learning embedded systems and IoT through hands-on hardware projects
+* **Abiturient** — Preparing for TUM or ETH Zurich Mechanical Engineering starting 2027
 
 <!--
 **Kergul08/Kergul08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
