@@ -8,8 +8,6 @@ I'm a high school student, building a strong foundation in programming and robot
 * **Abiturient** — Preparing for **TUM** or **ETH Zurich** Mechanical Engineering starting 2027
 ---
 
----
-
 ## ⚡ Arduino Projects
 
 | Project | Description | Concepts |
