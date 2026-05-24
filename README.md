@@ -14,6 +14,7 @@ I'm a high school student, building a strong foundation in programming and robot
 | :--- | :--- | :--- |
 | [4-Bit Binary Counter](https://github.com/Kergul08/4-Bit-Binary-Counter) | Hardware binary counter that counts from 0 to 15 using 4 LEDs. | Digital logic, Bitwise ops |
 | [Dimmable LED](https://github.com/Kergul08/Potentiometer-Controlled-Dimmable-LED) | Dimmable LED using a potentiometer. | PWM, Analog input |
+| [Serial LED Control](https://github.com/Kergul08/Serial-LED-Control) | Color & blink count via Serial Monitor | Serial communication, input validation |
 
 <!--
 **Kergul08/Kergul08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
