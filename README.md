@@ -16,6 +16,7 @@ I'm a high school student, building a strong foundation in programming and robot
 | [Dimmable LED](https://github.com/Kergul08/Potentiometer-Controlled-Dimmable-LED) | Dimmable LED using a potentiometer. | PWM, Analog input |
 | [Serial LED Control](https://github.com/Kergul08/Serial-LED-Control) | Color & blink count via Serial Monitor | Serial communication, input validation |
 | [Push-Button Dimmable LED](https://github.com/Kergul08/Dimmable-LED-With-Buttons) | Dimmable LED using 2 push-buttons | State Management, Data Scaling |
+| [Dual-Axis-Servo-Control-with-Joystick](https://github.com/Kergul08/Dual-Axis-Servo-Control-with-Joystick) | Joystick Controlled Dual-Axis Servo | Analog-to-Digital Conversion (ADC), Pulse Position Modulation (PPM) |
 
 <!--
 **Kergul08/Kergul08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
