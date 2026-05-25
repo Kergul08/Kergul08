@@ -19,6 +19,7 @@ I'm a high school student, building a strong foundation in programming and robot
 | [Dual-Axis-Servo-Control-with-Joystick](https://github.com/Kergul08/Dual-Axis-Servo-Control-with-Joystick) | Joystick Controlled Dual-Axis Servo | Analog-to-Digital Conversion (ADC), Pulse Position Modulation (PPM) |
 | [8-Bit Binary Counter](https://github.com/Kergul08/8-Bit-Binary-Counter-with-Shift-Register) | 0–255 binary counter using a 74HC595 shift register. | SPI, serial-to-parallel, shift registers |
 | [Serial LCD Calculator](https://github.com/Kergul08/lcd-calculator) | 16x2 LCD calculator processing math equations via Serial input streams. | LCD parallel bus, stream parsing, control flow |
+| [DHT11 Environment Monitor](https://github.com/Kergul08/Portable-DHT11-Temperature-Humidity-Monitor) | 16x2 LCD displaying real-time temperature and humidity tracking. | Single-bus communication, DHT driver integration, layout design |
 
 <!--
 **Kergul08/Kergul08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
