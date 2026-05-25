@@ -23,6 +23,11 @@ I'm a high school student, building a strong foundation in programming and robot
 | [Ultrasonic Distance Sensor](https://github.com/Kergul08/Portable-Ultrasonic-Distance-Sensor) | On-demand 16x2 LCD distance tracker with algorithmic multi-sample smoothing. | Time-of-Flight (ToF), array buffering, hardware calibration |
 | [IR Remote RGB LED](https://github.com/Kergul08/IR-Remote-Controlled-RGB-LED) | Infrared color mixing and variable dimming controls using hex pulse decoding. | Infrared protocol, hex mappings, mathematical dimming |
 
+---
+## 🛠️ Skills
+
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 <!--
 **Kergul08/Kergul08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
